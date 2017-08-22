@@ -16,4 +16,4 @@ The repository to check Git's vulnerability CVE-2017-1000117.
 If you run the "clone" action on a vulnerable Git client, the command written in "file" will be executed and a celebration message will be displayed.  
 Please do it at your own risk.
 
-The repository is inspired by https://github.com/greymd/CVE-2017-1000117. 
+The repository is inspired by https://github.com/greymd/CVE-2017-1000117 .
