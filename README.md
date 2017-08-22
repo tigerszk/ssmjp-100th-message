@@ -8,6 +8,8 @@ Well, if your git client is vulnerable ...
 
 `$ git clone --recursive https://github.com/tigerszk/ssmjp-100th-message.git`
 
+![ssmjp](https://user-images.githubusercontent.com/13941511/29547633-384ecdf0-8736-11e7-8264-5835da54ccea.png)
+
 Note:
 This is Joke.  
 The repository to check Git's vulnerability CVE-2017-1000117.
