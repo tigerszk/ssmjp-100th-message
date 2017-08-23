@@ -8,7 +8,7 @@ Well, if your git client is vulnerable ...
 
 `$ git clone --recursive https://github.com/tigerszk/ssmjp-100th-message.git`
 
-![ssmjp](https://user-images.githubusercontent.com/13941511/29547633-384ecdf0-8736-11e7-8264-5835da54ccea.png)
+![ssmjp](https://user-images.githubusercontent.com/13941511/29596279-5d493f16-87f7-11e7-8335-c160a620052a.png)
 
 Note:
 This is Joke.  
