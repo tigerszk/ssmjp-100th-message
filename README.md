@@ -1,7 +1,7 @@
 # Congratulations ssmjp 100 th!
 
-Hey guys!
-Thank you for visiting ssmjp all the time!  
+Hey guys!  
+Thank you for visiting [ssmjp](http://ssm.pkan.org/) all the time!  
 Thanks to everyone, ssmjp has reached 100 th.  
 If you run the command below you will see a celebration message!  
 Well, if your git client is vulnerable ...
@@ -12,7 +12,7 @@ Well, if your git client is vulnerable ...
 
 Note:
 This is Joke.  
-The repository to check Git's vulnerability CVE-2017-1000117.
+The repository to check Git's vulnerability CVE-2017-1000117.  
 If you run the "clone" action on a vulnerable Git client, the command written in "file" will be executed and a celebration message will be displayed.  
 Please do it at your own risk.
 
