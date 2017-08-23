@@ -1,7 +1,7 @@
 # Congratulations ssmjp 100 th!
 
 Hey guys!  
-Thank you for visiting [ssmjp](http://ssm.pkan.org/) all the time!  
+Thank you for visiting [ssmjp](http://ssm.pkan.org/) all the time!  
 Thanks to everyone, ssmjp has reached 100 th.  
 If you run the command below you will see a celebration message!  
 Well, if your git client is vulnerable ...
